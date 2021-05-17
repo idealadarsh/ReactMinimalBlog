@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Minimal Blog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A minimal blog built with React
 
 ## Available Scripts
 
